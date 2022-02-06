@@ -1,0 +1,29 @@
+.firstSpan {
+    border: 1px dashed green;
+    margin: 5px;
+    cursor: help;
+}
+
+.secondtSpan {
+    border: 1px solid green;
+    margin: 50px;
+    display: block;
+    cursor: wait;
+}
+
+.thirdSpan {
+    border: 1px solid green;
+    margin: 5px;
+    cursor: crosshair;
+}
+
+.fourthSpan {
+    border: 1px solid green;
+    margin: 5px;
+    visibility: hidden;
+}
+
+p{
+    background-image: url("bird.png");
+    background-repeat: repeat; 
+}
